@@ -2,6 +2,7 @@
 Gold Price Prediction using XGBoost with Macroeconomic Indicators for Financial Forecasting
 
 Overview
+
 This project focuses on predicting gold prices (GLD) using advanced machine learning techniques. The model leverages macroeconomic indicators such as stock market index (SPX), oil prices (USO), silver prices (SLV), and currency exchange rates (EUR/USD) to perform accurate financial forecasting.
 
 An XGBoost Regressor, a powerful ensemble learning algorithm, is used to capture complex non-linear relationships between these variables.
