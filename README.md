@@ -56,5 +56,6 @@ Results
 - Real-time gold price prediction integration
 
 Conclusion
+
 This project demonstrates how machine learning can be effectively applied to financial markets. By leveraging advanced algorithms like XGBoost, we can model complex relationships and make accurate predictions for gold prices.
 
